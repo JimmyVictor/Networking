@@ -1,0 +1,7 @@
+C:\Users\Games\source\repos\ConsoleApp1\CSServer\bin\Debug\CSServer.exe.config
+C:\Users\Games\source\repos\ConsoleApp1\CSServer\bin\Debug\CSServer.exe
+C:\Users\Games\source\repos\ConsoleApp1\CSServer\bin\Debug\CSServer.pdb
+C:\Users\Games\source\repos\ConsoleApp1\CSServer\obj\Debug\CSServer.csprojAssemblyReference.cache
+C:\Users\Games\source\repos\ConsoleApp1\CSServer\obj\Debug\CSServer.csproj.CoreCompileInputs.cache
+C:\Users\Games\source\repos\ConsoleApp1\CSServer\obj\Debug\CSServer.exe
+C:\Users\Games\source\repos\ConsoleApp1\CSServer\obj\Debug\CSServer.pdb
