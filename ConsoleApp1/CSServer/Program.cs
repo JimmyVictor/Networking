@@ -17,7 +17,7 @@ namespace CSServer
             IPAddress iPAddress = IPAddress.Loopback;
             IPEndPoint iPEndPoint = new IPEndPoint(iPAddress, 1234);
 
-            Socket ServerSocket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
+            Socket ServerSocket = new Socket(iPAddress.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
 
             try
             {
